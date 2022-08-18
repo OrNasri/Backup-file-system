@@ -1,5 +1,5 @@
 # Backup-file-system
-project made in Communication Networks course, in Linux. written in Python using Watchdog library.
+project made in Communication Networks course, in Linux.\n written in Python using Watchdog library.
 
 client.py - the client side.
 need to run it with arguments:
